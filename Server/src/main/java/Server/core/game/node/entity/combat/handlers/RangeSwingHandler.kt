@@ -427,7 +427,7 @@ open class RangeSwingHandler
          */
         private fun degrade(p: Player, state: BattleState, amount: Int) {
             if (state.weapon.item.id == 4212) { // New crystal bow.
-                p.packetDispatch.sendMessage("Your crystal bow has degraded!")
+                //p.packetDispatch.sendMessage("Your crystal bow has degraded!")
                 p.equipment.replace(Item(4212, 1, 996), 3)
                 return
             }
