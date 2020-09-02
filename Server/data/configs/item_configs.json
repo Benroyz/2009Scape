@@ -40866,7 +40866,7 @@
     },
     {
       "id": "4212",
-      "name": "New crystal bow",
+      "name": "Crystal bow",
       "examine": "A nice sturdy magical bow.",
       "shop_price": "900000",
       "grand_exchange_price": "905300",
@@ -40879,7 +40879,7 @@
       "attack_anims": "426,426,426,426",
       "defence_anim": "424",
       "attack_audios": "2700,0,0,0",
-      "requirements": "{16,70}-{4,50}",
+      "requirements": "{16,75}",
       "weight": "1.8",
       "ge_buy_limit": "10",
       "archery_ticket_price": "0",
